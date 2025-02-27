@@ -1,4 +1,4 @@
-# KB Lab
+# KBLab-Fintech
 
 > 🚀 Empowering digital companies to leverage web3 for their business success by harnessing the power of open source software and community of practice.
 
