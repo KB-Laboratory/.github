@@ -2,7 +2,7 @@
 
 > 🚀 Empowering digital companies to leverage web3 for their business success by harnessing the power of open source software and community of practice.
 
-## Our Products
+## Example products using our web3 libraries.
 
 | **Product/Component**                            | **Description**                                                                                                                                                                  | **Key Features / Components**                                                                                                                                                                                   |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
